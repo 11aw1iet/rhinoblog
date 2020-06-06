@@ -1,10 +1,12 @@
 ---
 title: RhinoTool
-author: Team Rhino 
+author: Team Rhino
 date: '2020-05-30'
+categories:
+  - item
+tags:
+  - tool
 slug: rhinotool
-categories: [item]
-tags: [tool]
 ---
 
 
