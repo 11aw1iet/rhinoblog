@@ -1,9 +1,9 @@
-baseURL = "http://example.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Rhino project"
 theme = "hugograyscale"
 #googleAnalytics = ""
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "RSS"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     # Provide some metadata for search and indexing services
