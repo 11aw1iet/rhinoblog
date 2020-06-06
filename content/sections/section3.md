@@ -3,11 +3,7 @@ title: "Contact"
 weight: 4
 ---
 
-## Contact Start Bootstrap
+## Contact
 
-Feel free to leave us a comment on the [Grayscale template Github page](https://github.com/runningstream/hugograyscale/) to give some feedback about this theme!
+Feel free to leave us a comment on the [rhino Github page](https://github.com/statkwon/rhino) to give some feedback about rhino!
 
-{{< socialhandles >}}
-    {{< twitter user="stream_running" >}}
-    {{< github user="runningstream" >}}
-{{< /socialhandles >}}

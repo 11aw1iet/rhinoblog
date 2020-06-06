@@ -4,7 +4,7 @@ title = "Rhino project"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     # Provide some metadata for search and indexing services
     description = "수소 충전소 입지선정 프로젝트"
