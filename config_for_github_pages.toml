@@ -1,17 +1,14 @@
-baseURL = "https://runningstream.github.io/hugograyscale/"
+baseURL = "http://example.com/"
 languageCode = "en-us"
-title = "Hugssle Theme"
+title = "Rhino project"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "수소 충전소 입지선정 프로젝트"
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
-
-[Social]
-    twitter = "stream_running"
+    name = "Rhinoteam"
+    email = "https://github.com/statkwon/rhino"
